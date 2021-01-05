@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diaslilian/clean-node-tdd/issues"
   },
-  "homepage": "https://github.com/diaslilian/clean-node-tdd#readme"
+  "homepage": "https://github.com/diaslilian/clean-node-tdd#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
 }
