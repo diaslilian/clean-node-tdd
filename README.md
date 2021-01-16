@@ -7,3 +7,12 @@
 - Lint-Staged
 - Husky
 - Standard
+
+2 - Testar componente que ainda não existe no projeto.
+
+Referências:
+
+- [TDD](https://pt.wikipedia.org/wiki/Test-driven_development)
+- [Jest](https://jestjs.io/)
+- [Unit Test](https://en.wikipedia.org/wiki/Unit_testing)
+- [HTTP Status Code](https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_de_estado_HTTP)
