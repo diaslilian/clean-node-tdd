@@ -1,7 +1,7 @@
 module.exports = class UnauthorizedError extends (
   Error
 ) {
-  constructor (paramName) {
+  constructor () {
     super('Unauthorized')
     this.name = 'MissingParamError'
   }
