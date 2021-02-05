@@ -20,5 +20,9 @@ Referências:
 3 - Utilizar o Jest para gerar scripts.
 Gerar cobertura de testes e gerar um script para rodar sempre antes do push.
 
-- [Jest](https://jestjs.io/)
 - [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
+
+4 - Criar a classe EmailValidator e testar uma classe que depende de um framework externo.
+
+- [Test Doubles](https://martinfowler.com/bliki/TestDouble.html)
+- [Validator](https://www.npmjs.com/package/validator)
